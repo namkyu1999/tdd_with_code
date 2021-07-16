@@ -16,4 +16,5 @@ function App({ commentComposer }) {
     setComments([...[...comments], newComment]);
   }
 }
+
 export default App;
